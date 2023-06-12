@@ -1,0 +1,52 @@
+*{
+	box-sizing: border-box;
+}
+.body{
+	filter: blur(10px);
+}
+.header{
+	height: 400vh;
+	width: 100%;
+}
+.ws{
+	opacity: 0.8;
+}
+/* .one{
+        float: left;
+        font-size: 40px;
+        position: absolute;
+        left: 350px;
+        top: 150px;
+        color: black;
+    } */
+    .two{
+        float: right;
+        font-size: 10px;
+        position: absolute;
+        right: 10px;
+        left: 10px;
+        top: 10px;
+        color: black;
+    }
+    .xyz{
+        margin-top: 40px;
+        font-size: 25px;
+       margin-left: 200px;
+       margin-right: 200px;
+    }
+    .check{
+        margin-top: 60px;
+        font-size: 25px;
+       margin-left: 200px;
+       margin-right: 200px;
+    }
+    .abc{
+        font-size: 15px;
+        font-weight: 100;
+    }
+    .sub{
+        margin-top: 70px;
+        margin-left: 500px;
+       margin-right: 400px;
+    }
+    
